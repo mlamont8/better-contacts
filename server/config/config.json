@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "mlamont8",
+    "password": "welcome1",
+    "database": "contacts-dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "mlamont8",
+    "password": "welcome1",
+    "database": "contacts-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "mlamont8",
+    "password": "welcome1",
+    "database": "contacts-production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
