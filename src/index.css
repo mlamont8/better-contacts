@@ -1,4 +1,11 @@
+.gridContainer {
+  background-color: #423960; }
+
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif; }
+
+.App {
+  background-color: #4F4079;
+  min-height: 400px; }
