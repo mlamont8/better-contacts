@@ -3,6 +3,7 @@
     "username": "mlamont8",
     "password": "welcome1",
     "database": "contacts-dev",
+    "operatorsAliases": false,
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
