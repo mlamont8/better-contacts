@@ -2,7 +2,7 @@
   "development": {
     "username": "mlamont8",
     "password": "welcome1",
-    "database": "contacts-dev",
+    "database": "contactsdev",
     "operatorsAliases": false,
     "host": "127.0.0.1",
     "dialect": "postgres"
