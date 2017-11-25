@@ -1,4 +1,9 @@
 $gridBackground: #423960;
+
+// set background color and center vertically
 .gridContainer{
-    background-color: $gridBackground;
+    background-color: $gridBackground;    
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);      
 }

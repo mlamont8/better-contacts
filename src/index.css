@@ -1,5 +1,8 @@
 .gridContainer {
-  background-color: #423960; }
+  background-color: #423960;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%); }
 
 body {
   margin: 0;
